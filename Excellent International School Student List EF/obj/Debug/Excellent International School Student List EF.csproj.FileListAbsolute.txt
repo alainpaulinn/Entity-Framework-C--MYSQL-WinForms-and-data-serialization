@@ -1,0 +1,14 @@
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\bin\Debug\Excellent International School Student List EF.exe.config
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\bin\Debug\Excellent International School Student List EF.exe
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\bin\Debug\Excellent International School Student List EF.pdb
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\obj\Debug\Excellent International School Student List EF.csprojAssemblyReference.cache
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\obj\Debug\Excellent_International_School_Student_List_EF.Form1.resources
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\obj\Debug\Excellent_International_School_Student_List_EF.Properties.Resources.resources
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\obj\Debug\Excellent International School Student List EF.csproj.GenerateResource.cache
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\obj\Debug\Excellent International School Student List EF.exe
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\obj\Debug\Excellent International School Student List EF.pdb
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\bin\Debug\EntityFramework.dll
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\bin\Debug\EntityFramework.xml
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alain Paulin\Desktop\Advanced tech. of Programing\entity Framework files\Excellent International School Student List EF\obj\Debug\Excellent International School Student List EF.csproj.CopyComplete
